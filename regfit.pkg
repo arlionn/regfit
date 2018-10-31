@@ -1,0 +1,7 @@
+
+v 1.0
+d Author: Liu wei, The School of Sociology and Population Studies, Renmin University of China.
+d regfit gives the equation after a regression.
+d Distribution-Date: 2018.10.31
+f regfit.ado
+f regfit.sthlp
